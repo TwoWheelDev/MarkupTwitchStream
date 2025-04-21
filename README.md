@@ -17,8 +17,8 @@ The module currently uses TailwindCSS for styling (but future versions may make 
 - `MarkupTwitchStream`: For rendering Twitch information on the frontend.
 
 ## Screeenshots
-![Screenshot - Online Light](./screenshots/Online-Light.png) ![Screenshot - Online Dark](./screenshots/Online-Dark.png)
-![Screenshot - Offline Light](./screenshots/Offline-Light.png) ![Screenshot - Offline Dark](./screenshots/Offline-Dark.png)
+![Screenshot - Online Light](https://github.com/TwoWheelDev/MarkupTwitchStream/raw/main/screenshots/Online-Light.png) ![Screenshot - Online Dark](https://github.com/TwoWheelDev/MarkupTwitchStream/raw/main/screenshots/Online-Dark.png)
+![Screenshot - Offline Light](https://github.com/TwoWheelDev/MarkupTwitchStream/raw/main/screenshots/Offline-Light.png) ![Screenshot - Offline Dark](https://github.com/TwoWheelDev/MarkupTwitchStream/raw/main/screenshots/Offline-Dark.png)
 
 ---
 
