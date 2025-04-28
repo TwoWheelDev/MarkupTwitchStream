@@ -1,5 +1,8 @@
 # ProcessWire Twitch Stream Markup
 
+
+![StyleCI Badge](https://github.styleci.io/repos/970039020/shield?branch=main) ![GitHub License](https://img.shields.io/github/license/twowheeldev/MarkupTwitchStream?style=flat-square)
+
 A custom Fieldtype and Inputfield for ProcessWire that allows you to store a Twitch username on a page and view its live stream status.
 
 The module currently uses TailwindCSS for styling (but future versions may make the styles configurable).
