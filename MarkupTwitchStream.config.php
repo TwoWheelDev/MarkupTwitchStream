@@ -4,7 +4,8 @@ namespace ProcessWire;
 
 class markupTwitchStreamConfig extends ModuleConfig
 {
-    public function getInputfields() {
+    public function getInputfields()
+    {
         $fields = parent::getInputfields();
 
         $field = $this->modules->get('InputfieldText');
