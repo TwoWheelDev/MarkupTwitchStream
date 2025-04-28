@@ -7,10 +7,10 @@ class FieldtypeTwitch extends FieldtypeText
     public static function getModuleInfo()
     {
         return [
-            'title' => 'Twitch',
-            'version' => 1,
-            'summary' => 'Stores a Twitch username and retrieves live data',
-            'author' => 'TwoWheelDev',
+            'title'    => 'Twitch',
+            'version'  => 1,
+            'summary'  => 'Stores a Twitch username and retrieves live data',
+            'author'   => 'TwoWheelDev',
             'requires' => ['InputfieldTwitch'],
         ];
     }
@@ -19,7 +19,8 @@ class FieldtypeTwitch extends FieldtypeText
     {
         /** @var InputfieldTwitch $inputfield */
         $inputfield = $this->modules->get('InputfieldTwitch');
-        $inputfield->description("Enter a Twitch username");
+        $inputfield->description('Enter a Twitch username');
+
         return $inputfield;
     }
 }
