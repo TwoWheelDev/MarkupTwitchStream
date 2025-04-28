@@ -8,7 +8,7 @@ class FieldtypeTwitch extends FieldtypeText
     {
         return [
             'title'    => 'Twitch',
-            'version'  => 1,
+            'version'  => 2,
             'summary'  => 'Stores a Twitch username and retrieves live data',
             'author'   => 'TwoWheelDev',
             'requires' => ['InputfieldTwitch'],

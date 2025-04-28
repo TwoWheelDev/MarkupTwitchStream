@@ -21,7 +21,7 @@ class MarkupTwitchStream extends WireData implements Module
     {
         return [
             'title'    => 'Twitch Stream Status',
-            'version'  => 1,
+            'version'  => 2,
             'summary'  => 'Provides status of a Twitch Stream',
             'author'   => 'TwoWheelDev',
             'autoload' => false,

@@ -8,7 +8,7 @@ class InputfieldTwitch extends InputfieldText
     {
         return [
             'title'    => 'Twitch',
-            'version'  => 1,
+            'version'  => 2,
             'summary'  => 'Enter a Twitch username and view stream info',
             'author'   => 'TwoWheelDev',
             'requires' => 'MarkupTwitchStream',
